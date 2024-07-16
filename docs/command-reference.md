@@ -292,7 +292,7 @@ String
 
 #### Install-Nerdctl
 
-Downloads Containerd files from [nerdctl releases](https://github.com/containerd/nerdctl/releases) and installs it the provided path. Once installation is complete, the downloaded files are deleted to save on disk space.
+Downloads nerdctl files from [nerdctl releases](https://github.com/containerd/nerdctl/releases) and installs it the provided path. Once installation is complete, the downloaded files are deleted to save on disk space.
 
 **Parameters**
 
